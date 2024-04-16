@@ -1,16 +1,10 @@
-# maybe_marquee
+# Maybe Marquee
 
-A new Flutter project.
+## Information
+This project showcases the Maybe Marquee Text functionality. Essentially, it takes text string and text style parameters and attempts to fit them within the available horizontal space. If the text fits without overflowing, all is well. However, if it exceeds the space, it initiates a marquee effect, scrolling the text horizontally from left to right.
 
-## Getting Started
+## Preview (Screenshot)
+![alt text](https://i.postimg.cc/c4hKfL37/imgonline-com-ua-twotoone-5-ZPyc-Ex-Wq-VXmwm.png "img")
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview (Video)
+- [Watch here](https://www.veed.io/view/0b11a953-8373-41f3-99cb-6cc3904419fd?sharingWidget=true&panel=share)
